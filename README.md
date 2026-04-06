@@ -1,5 +1,5 @@
 🚕 Uber Fare Price Prediction (Machine
-Learning Project)
+Learning Project) /n
 📌 Overview
 This project focuses on predicting Uber ride fares using Machine Learning. The main objective is to
 analyze ride data, perform feature engineering, and build a regression model that can accurately
